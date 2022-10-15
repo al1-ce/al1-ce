@@ -7,10 +7,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" style="width: 50px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="width: 50px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width: 50px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 50px;"/> 
+  <img src="https://raw.githubusercontent.com/al1-ce/al1-ce/main/jspp-logo.png" style="width: 50px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 50px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="width: 50px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width: 50px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 50px;"/> 
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al1-ce&theme=tokyonight) -->
