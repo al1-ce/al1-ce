@@ -4,13 +4,15 @@
 
 <!-- ![](https://img.shields.io/twitch/status/silyneko?logo=twitch&logoColor=white&style=for-the-badge) -->
 
-<h3 align="center"> 
-  
---==== [My Releases](https://github.com/stars/al1-ce/lists/my-releases) ====--
-
-</h3>
-
 <div align="center">
+
+
+  [![](https://img.shields.io/static/v1?label=%20&message=Releases%3A&color=363636&style=for-the-badge)](https://github.com/stars/al1-ce/lists/my-releases)
+  [![git](https://img.shields.io/github/v/release/al1-ce/pkm?label=pkm&logo=github&style=for-the-badge)](https://github.com/al1-ce/pkm)
+  [![git](https://img.shields.io/github/v/release/al1-ce/pxv?label=pxv&logo=github&style=for-the-badge)](https://github.com/al1-ce/pxv)
+  [![git](https://img.shields.io/github/v/release/al1-ce/jsppext?label=jsppext&logo=github&style=for-the-badge)](https://github.com/al1-ce/jsppext)
+  [![git](https://img.shields.io/github/v/release/al1-ce/sily-dlang?label=sily-d&logo=github&style=for-the-badge)](https://github.com/al1-ce/sily-dlang)
+  [![git](https://img.shields.io/github/v/release/al1-ce/AtheOS?label=AtheOS&logo=github&style=for-the-badge)](https://github.com/al1-ce/atheos)
 
   ![](https://img.shields.io/static/v1?label=%20&message=Languages%3A&color=363636&style=for-the-badge)
   [![](https://img.shields.io/static/v1?label=%20&message=DLang&color=red&style=for-the-badge&logo=d)](https://github.com/al1-ce?tab=repositories&language=d)
