@@ -38,7 +38,7 @@
 
   ![](https://img.shields.io/static/v1?label=%20&message=Tools%3A&color=363636&style=for-the-badge)
   ![](https://img.shields.io/static/v1?label=%20&message=vscode&color=007ACC&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![](https://img.shields.io/static/v1?label=%20&message=vim&color=019733&style=for-the-badge&logo=vim&logoColor=white)
+  ![](https://img.shields.io/static/v1?label=%20&message=neovim&color=019733&style=for-the-badge&logo=neovim&logoColor=white)
   ![](https://img.shields.io/static/v1?label=%20&message=Godot&color=blue&style=for-the-badge&logo=godotengine&logoColor=white)
   ![](https://img.shields.io/static/v1?label=%20&message=git&color=e46430&style=for-the-badge&logo=git&logoColor=white)
   ![](https://img.shields.io/static/v1?label=%20&message=Backendless&color=4e4e4e&style=for-the-badge&logo=backendless&logoColor=white)
