@@ -12,7 +12,7 @@
   [![git](https://img.shields.io/github/v/release/al1-ce/pxv?label=pxv&logo=github&style=for-the-badge)](https://github.com/al1-ce/pxv)
   [![git](https://img.shields.io/github/v/release/al1-ce/jsppext?label=jsppext&logo=github&style=for-the-badge)](https://github.com/al1-ce/jsppext)
   [![git](https://img.shields.io/github/v/release/al1-ce/sily-dlang?label=sily-d&logo=github&style=for-the-badge)](https://github.com/al1-ce/sily-dlang)
-  [![git](https://img.shields.io/github/v/release/al1-ce/AtheOS?label=AtheOS&logo=github&style=for-the-badge)](https://github.com/al1-ce/atheos)
+  [![git](https://img.shields.io/static/v1?label=AtheOS&message=v1.0.0&logo=github&color=007ec6&style=for-the-badge)](https://github.com/al1-ce/atheos)
 
   ![](https://img.shields.io/static/v1?label=%20&message=Languages%3A&color=363636&style=for-the-badge)
   [![](https://img.shields.io/static/v1?label=%20&message=DLang&color=red&style=for-the-badge&logo=d)](https://github.com/al1-ce?tab=repositories&language=d)
