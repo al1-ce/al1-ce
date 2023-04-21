@@ -10,6 +10,7 @@
   [![git](https://img.shields.io/github/v/release/al1-ce/pkm?label=pkm&logo=github&style=for-the-badge)](https://github.com/al1-ce/pkm)
   [![git](https://img.shields.io/github/v/release/al1-ce/pxv?label=pxv&logo=github&style=for-the-badge)](https://github.com/al1-ce/pxv)
   [![git](https://img.shields.io/github/v/release/al1-ce/confed?label=confed&logo=github&style=for-the-badge)](https://github.com/al1-ce/confed)
+  [![git](https://img.shields.io/github/v/release/al1-ce/backpack?label=backpack&logo=github&style=for-the-badge)](https://github.com/al1-ce/backpack)
   [![git](https://img.shields.io/github/v/release/al1-ce/jsppext?label=jsppext&logo=github&style=for-the-badge)](https://github.com/al1-ce/jsppext)
   [![git](https://img.shields.io/github/v/release/al1-ce/sily-dlang?label=sily-d&logo=github&style=for-the-badge)](https://github.com/al1-ce/sily-dlang)
   [![git](https://img.shields.io/static/v1?label=AtheOS&message=v1.0.0&logo=github&color=007ec6&style=for-the-badge)](https://github.com/al1-ce/atheos)
