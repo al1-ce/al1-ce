@@ -16,9 +16,9 @@
 
   [![](https://img.shields.io/static/v1?label=%20&message=Libraries%3A&color=363636&style=for-the-badge)](https://github.com/stars/al1-ce/lists/my-libraries)
   [![git](https://img.shields.io/github/v/release/al1-ce/sily-dlang?label=sily-core&logo=github&style=for-the-badge)](https://github.com/al1-ce/sily-dlang)
-  [![git](https://img.shields.io/github/v/release/al1-ce/sily-terminal?label=sily-terminal&logo=github&style=for-the-badge)](https://github.com/al1-ce/sily-dlang)
-  [![git](https://img.shields.io/github/v/release/al1-ce/sily-raylib?label=sily-raylib&logo=github&style=for-the-badge)](https://github.com/al1-ce/sily-dlang)
-  [![git](https://img.shields.io/github/v/release/al1-ce/sily-gamelib?label=sily-gamelib&logo=github&style=for-the-badge)](https://github.com/al1-ce/sily-dlang)
+  [![git](https://img.shields.io/github/v/release/al1-ce/sily-terminal?label=sily-terminal&logo=github&style=for-the-badge)](https://github.com/al1-ce/sily-terminal)
+  [![git](https://img.shields.io/github/v/release/al1-ce/sily-raylib?label=sily-raylib&logo=github&style=for-the-badge)](https://github.com/al1-ce/sily-raylib)
+  [![git](https://img.shields.io/github/v/release/al1-ce/sily-gamelib?label=sily-gamelib&logo=github&style=for-the-badge)](https://github.com/al1-ce/sily-gamelib)
   
   ![](https://img.shields.io/static/v1?label=%20&message=Languages%3A&color=363636&style=for-the-badge)
   [![](https://img.shields.io/static/v1?label=%20&message=DLang&color=red&style=for-the-badge&logo=d)](https://github.com/al1-ce?tab=repositories&language=d)
