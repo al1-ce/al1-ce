@@ -13,7 +13,13 @@
   [![git](https://img.shields.io/github/v/release/al1-ce/backpack?label=backpack&logo=github&style=for-the-badge)](https://github.com/al1-ce/backpack)
   [![git](https://img.shields.io/github/v/release/al1-ce/jsppext?label=jsppext&logo=github&style=for-the-badge)](https://github.com/al1-ce/jsppext)
   [![git](https://img.shields.io/static/v1?label=AtheOS&message=v1.0.0&logo=github&color=007ec6&style=for-the-badge)](https://github.com/al1-ce/atheos)
-
+   <!--
+[![](https://github.com/al1-ce/sily-dlang/blob/master/readme/logo.png)](https://github.com/al1-ce/sily-dlang)
+[![](https://github.com/al1-ce/sily-dlang/blob/master/readme/logo-term.png)](https://github.com/al1-ce/sily-terminal)
+[![](https://github.com/al1-ce/sily-dlang/blob/master/readme/logo-ray.png)](https://github.com/al1-ce/sily-raylib)
+[![](https://github.com/al1-ce/sily-dlang/blob/master/readme/logo-game.png)](https://github.com/al1-ce/sily-gamelib)
+[![](https://github.com/al1-ce/sily-dlang/blob/master/readme/logo-jspp.png)](https://github.com/al1-ce/sily-jspp)
+  -->
   [![](https://img.shields.io/static/v1?label=%20&message=Libraries%3A&color=363636&style=for-the-badge)](https://github.com/stars/al1-ce/lists/my-libraries)
   [![git](https://img.shields.io/github/v/release/al1-ce/sily-dlang?label=sily-core&logo=github&style=for-the-badge)](https://github.com/al1-ce/sily-dlang)
   [![git](https://img.shields.io/github/v/release/al1-ce/sily-terminal?label=sily-terminal&logo=github&style=for-the-badge)](https://github.com/al1-ce/sily-terminal)
