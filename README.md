@@ -28,13 +28,13 @@
   
   ![](https://img.shields.io/static/v1?label=%20&message=Languages%3A&color=363636&style=for-the-badge)
   [![](https://img.shields.io/static/v1?label=%20&message=DLang&color=red&style=for-the-badge&logo=d)](https://github.com/al1-ce?tab=repositories&language=d)
-  [![](https://img.shields.io/static/v1?label=%20&message=C%23&color=239120&style=for-the-badge&logo=csharp)](https://github.com/al1-ce?tab=repositories&language=c%23)
-  [![](https://img.shields.io/static/v1?label=%20&message=JS%2B%2B&color=323330&style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/al1-ce?tab=repositories&language=javascript)
+  [![](https://img.shields.io/static/v1?label=%20&message=Dart&color=0175C2&style=for-the-badge&logo=dart&logoColor=white)](https://github.com/al1-ce?tab=repositories&language=dart)
   [![](https://img.shields.io/static/v1?label=%20&message=JS&color=323330&style=for-the-badge&logo=javascript)](https://github.com/al1-ce?tab=repositories&language=javascript)
   [![](https://img.shields.io/static/v1?label=%20&message=HTML5&color=E34F26&style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/al1-ce?tab=repositories&language=html)
   [![](https://img.shields.io/static/v1?label=%20&message=CSS3&color=1572B6&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/al1-ce?tab=repositories&language=html)
-  [![](https://img.shields.io/static/v1?label=%20&message=Dart&color=0175C2&style=for-the-badge&logo=dart&logoColor=white)](https://github.com/al1-ce?tab=repositories&language=dart)
+  [![](https://img.shields.io/static/v1?label=%20&message=C%23&color=239120&style=for-the-badge&logo=csharp)](https://github.com/al1-ce?tab=repositories&language=c%23)
   [![](https://img.shields.io/static/v1?label=%20&message=Java&color=orange&style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/al1-ce?tab=repositories&language=java)
+  [![](https://img.shields.io/static/v1?label=%20&message=JS%2B%2B&color=323330&style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/al1-ce?tab=repositories&language=javascript)
 
   <!-- ![](https://img.shields.io/static/v1?label=%20&message=Socials%3A&color=363636&style=for-the-badge)
   ![](https://img.shields.io/static/v1?label=%20&message=AtheOS&color=222324&style=for-the-badge&logo=affinity&logoColor=white)
@@ -54,9 +54,9 @@
   ![](https://img.shields.io/static/v1?label=%20&message=Godot&color=blue&style=for-the-badge&logo=godotengine&logoColor=white)
   ![](https://img.shields.io/static/v1?label=%20&message=git&color=e46430&style=for-the-badge&logo=git&logoColor=white)
   ![](https://img.shields.io/static/v1?label=%20&message=Backendless&color=4e4e4e&style=for-the-badge&logo=backendless&logoColor=white)
-  ![](https://img.shields.io/static/v1?label=%20&message=arch&color=1793D1&style=for-the-badge&logo=archlinux&logoColor=white)
+  [![](https://img.shields.io/static/v1?label=%20&message=arch&color=1793D1&style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/al1-ce/linuxrice)
   ![](https://img.shields.io/static/v1?label=%20&message=qtile&color=215578&style=for-the-badge&logo=quicktime&logoColor=white)
-  ![](https://img.shields.io/static/v1?label=%20&message=xfce&color=2284F2&style=for-the-badge&logo=xfce&logoColor=white)
+<!--   ![](https://img.shields.io/static/v1?label=%20&message=xfce&color=2284F2&style=for-the-badge&logo=xfce&logoColor=white) -->
   
 </div>
 
