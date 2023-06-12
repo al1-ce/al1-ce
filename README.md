@@ -13,6 +13,7 @@
   [![git](https://img.shields.io/github/v/release/al1-ce/backpack?label=backpack&logo=d&style=for-the-badge)](https://github.com/al1-ce/backpack)
   [![git](https://img.shields.io/github/v/release/al1-ce/jsppext?label=jsppext&logo=d&style=for-the-badge)](https://github.com/al1-ce/jsppext)
   [![git](https://img.shields.io/static/v1?label=AtheOS&message=v1.0.0&logo=dart&color=007ec6&style=for-the-badge)](https://github.com/al1-ce/atheos)
+  [![git](https://img.shields.io/static/v1?label=Evestian&message=v1.0.0&logo=dart&color=007ec6&style=for-the-badge)](https://github.com/al1-ce/evestian)
    <!--
 [![](https://github.com/al1-ce/sily-dlang/blob/master/readme/logo.png)](https://github.com/al1-ce/sily-dlang)
 [![](https://github.com/al1-ce/sily-dlang/blob/master/readme/logo-term.png)](https://github.com/al1-ce/sily-terminal)
