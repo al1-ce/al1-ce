@@ -59,7 +59,8 @@
   [![](https://img.shields.io/static/v1?label=%20&message=arch&color=1793D1&style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/al1-ce/linuxrice)
   ![](https://img.shields.io/static/v1?label=%20&message=qtile&color=215578&style=for-the-badge&logo=quicktime&logoColor=white)
 <!--   ![](https://img.shields.io/static/v1?label=%20&message=xfce&color=2284F2&style=for-the-badge&logo=xfce&logoColor=white) -->
-  
 </div>
-
 <!-- ![](https://komarev.com/ghpvc/?username=al1-ce&style=for-the-badge) -->
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=al1-ce)](https://github.com/al1-ce/github-readme-stats) -->
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=al1-ce&theme=blue-green) -->
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
