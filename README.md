@@ -56,7 +56,7 @@
   ![](https://img.shields.io/static/v1?label=%20&message=Godot&color=blue&style=for-the-badge&logo=godotengine&logoColor=white)
   ![](https://img.shields.io/static/v1?label=%20&message=git&color=e46430&style=for-the-badge&logo=git&logoColor=white)
   ![](https://img.shields.io/static/v1?label=%20&message=Backendless&color=4e4e4e&style=for-the-badge&logo=backendless&logoColor=white)
-  [![](https://img.shields.io/static/v1?label=%20&message=arch&color=1793D1&style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/al1-ce/linuxrice)
+  [![](https://img.shields.io/static/v1?label=%20&message=arch&color=1793D1&style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/al1-ce/dotfiles)
   ![](https://img.shields.io/static/v1?label=%20&message=qtile&color=215578&style=for-the-badge&logo=quicktime&logoColor=white)
 <!--   ![](https://img.shields.io/static/v1?label=%20&message=xfce&color=2284F2&style=for-the-badge&logo=xfce&logoColor=white) -->
 </div>
