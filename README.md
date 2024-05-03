@@ -23,10 +23,10 @@
   -->
   [![](https://img.shields.io/static/v1?label=%20&message=Libraries%3A&color=363636&style=for-the-badge)](https://github.com/stars/al1-ce/lists/my-libraries)
   [![git](https://img.shields.io/github/v/release/al1-ce/sily?label=sily&logo=d&style=for-the-badge)](https://github.com/al1-ce/sily)
-  <!-- [![git](https://img.shields.io/github/v/release/al1-ce/sily-terminal?label=sily-terminal&logo=d&style=for-the-badge)](https://github.com/al1-ce/sily-terminal) -->
-  <!-- [![git](https://img.shields.io/github/v/release/al1-ce/sily-web?label=sily-web&logo=d&style=for-the-badge)](https://github.com/al1-ce/sily-web) -->
   [![git](https://img.shields.io/github/v/release/al1-ce/clib?label=clib&logo=d&style=for-the-badge)](https://github.com/al1-ce/clib)
   [![git](https://img.shields.io/github/v/release/artificial-studio/faux?label=faux&logo=d&style=for-the-badge)](https://github.com/artificial-studio/faux)
+  <!-- [![git](https://img.shields.io/github/v/release/al1-ce/sily-terminal?label=sily-terminal&logo=d&style=for-the-badge)](https://github.com/al1-ce/sily-terminal) -->
+  <!-- [![git](https://img.shields.io/github/v/release/al1-ce/sily-web?label=sily-web&logo=d&style=for-the-badge)](https://github.com/al1-ce/sily-web) -->
   <!-- [![git](https://img.shields.io/github/v/release/al1-ce/dart-webos?label=dart-webos&logo=dart&style=for-the-badge)](https://github.com/al1-ce/dart-webos) -->
   
   ![](https://img.shields.io/static/v1?label=%20&message=Languages%3A&color=363636&style=for-the-badge)
