@@ -40,3 +40,4 @@
   [![](https://img.shields.io/static/v1?label=%20&message=GMS2&color=282828&style=for-the-badge&logo=gamemaker&logoColor=white)](https://github.com/orgs/aartificial-dev/repositories?q=-gm)
 </div>
 
+![](https://raw.githubusercontent.com/al1-ce/al1-ce/master/greentext.png)
