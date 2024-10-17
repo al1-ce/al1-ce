@@ -40,4 +40,10 @@
   [![](https://img.shields.io/static/v1?label=%20&message=GMS2&color=282828&style=for-the-badge&logo=gamemaker&logoColor=white)](https://github.com/orgs/aartificial-dev/repositories?q=-gm)
 </div>
 
-![](https://raw.githubusercontent.com/al1-ce/al1-ce/master/greentext-2024-10-17T03_04_31.678Z.png)
+<!-- ![](https://raw.githubusercontent.com/al1-ce/al1-ce/master/greentext-2024-10-17T03_04_31.678Z.png) -->
+<!-- ![](http://127.0.0.1:8080/img/greentext.html) -->
+
+<a href="https://github.com/marketplace/actions/update-image-readme">
+<!--START_SECTION:update_image-->
+<!--END_SECTION:update_image-->
+</a>
