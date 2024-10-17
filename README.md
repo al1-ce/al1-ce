@@ -41,10 +41,5 @@
 </div>
 
 <!-- ![](https://raw.githubusercontent.com/al1-ce/al1-ce/master/greentext-2024-10-17T03_04_31.678Z.png) -->
-<!-- ![](http://127.0.0.1:8080/img/greentext.html) -->
+![](http://127.0.0.1:3000/api/greentext)
 
-<a href="https://github.com/marketplace/actions/update-image-readme">
-<!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/al1-ce/al1-ce/master/.github/images/1.png height=auto width=auto align=left alt=Image ALT />
-<!--END_SECTION:update_image-->
-</a>
