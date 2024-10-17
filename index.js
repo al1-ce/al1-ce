@@ -24,9 +24,9 @@ function random_int(min, max) {
 }
 
 function get_random_image(dir) {
-    const length = fs.readdirSync(`/images/${dir}`).length;
+    const length = fs.readdirSync(`./images/${dir}`).length;
     let img_idx = random_int(0, length - 1);
-    return fs.readFileSync(`/images/greentext/${img_idx}.png`);
+    return fs.readFileSync(`./images/greentext/${img_idx}.png`);
 }
 
 // app.use(express.static(__dirname + "../public"));
