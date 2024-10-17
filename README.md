@@ -41,5 +41,8 @@
 </div>
 
 <!-- ![](https://raw.githubusercontent.com/al1-ce/al1-ce/master/greentext-2024-10-17T03_04_31.678Z.png) -->
-![](http://127.0.0.1:3000/api/greentext)
+<!-- ![](https://al1-ce-silyneko.vercel.app/api/images/greentext) -->
+<!-- ![](https://al1-ce-silyneko.vercel.app/api/images/anime) -->
+![](http://localhost:3000/api/images/greentext)
+<!-- ![](http://localhost:3000/api/images/anime) -->
 

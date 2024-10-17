@@ -1,53 +1,68 @@
 const fs = require("fs");
-const http = require("http");
-const url = require("url");
-const express = require("express")
+const express = require("express");
 const app = express();
-/**
- * Returns a random number between min (inclusive) and max (exclusive)
- */
+
 function random_float(min, max) {
     return Math.random() * (max - min) + min;
 }
 
-/**
- * Returns a random integer between min (inclusive) and max (inclusive).
- * The value is no lower than min (or the next integer greater than min
- * if min isn't an integer) and no greater than max (or the next integer
- * lower than max if max isn't an integer).
- * Using Math.round() will give you a non-uniform distribution!
- */
 function random_int(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-function get_random_image(dir) {
-    const length = fs.readdirSync(__dirname + `/images/${dir}`).length;
-    let img_idx = random_int(0, length - 1);
-    return fs.readFileSync(__dirname + `/images/greentext/${img_idx}.png`);
+function get_file_list(dir) {
+    let files = []
+    fs.readdirSync(dir).forEach(file => {
+        files.push(file);
+    });
+    return files;
 }
 
-// app.use(express.static(__dirname + "../public"));
-// app.use(express.json());
-// app.use(express.urlencoded({ extended: true }));
+function get_random_image_name(dir) {
+    let path = __dirname + `/images/${dir}`;
+    let files = get_file_list(path);
+    const length = files.length;
+    let img_idx = random_int(0, length - 1);
+    return path + "/" + files[img_idx];
+}
 
-app.get('/', (req, res) => {
-    res.writeHead(200, { "Content-Type": 'text/plain' });
+function get_image_data(path) {
+    return fs.readFileSync(path);
+}
+
+app.get("/", (req, res) => {
+    res.writeHead(200, { "Content-Type": "text/plain" });
     res.end("Some random API stuff.\n");
-
 });
 
-app.get('/api/greentext', (req, res) => {
-    let img = get_random_image("greentext");
-    res.writeHead(200, { "Content-Type": 'image/png' });
-    res.end(img, "binary");
-
-});
+let img_dirs = get_file_list(__dirname + "/images");
+for (let dir of img_dirs) {
+    app.get(`/api/images/${dir}`, (req, res) => {
+        let img = get_random_image_name(dir);
+        let img_data = get_image_data(img);
+        if (img.endsWith(".jpg") || img.endsWith(".jpeg")) {
+            res.writeHead(200, { "Content-Type": "image/jpeg" });
+            res.end(img_data, "binary");
+        } else
+        if (img.endsWith(".png")) {
+            res.writeHead(200, { "Content-Type": "image/png" });
+            res.end(img_data, "binary");
+        } else
+        if (img.endsWith(".gif")) {
+            res.writeHead(200, { "Content-Type": "image/gif" });
+            res.end(img_data, "binary");
+        } else {
+            res.writeHead(200, { "Content-Type": "text/plain" });
+            res.end("Unknown format.\n");
+        }
+    });
+}
 
 const port = process.env.PORT || 3000;
 
 app.listen(port, () => console.log(`Server running on ${port}, http://localhost:${port}`));
 
 module.exports = app;
+
