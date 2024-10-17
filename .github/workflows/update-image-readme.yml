@@ -15,8 +15,8 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: siddharth2016/update-readme-image@main
-                with:
-                    IMG_ALT: Image ALT
-                    HEIGHT: auto
-                    WIDTH: auto
-                    ALIGN: left
+              with:
+                  IMG_ALT: Image ALT
+                  HEIGHT: auto
+                  WIDTH: auto
+                  ALIGN: left
