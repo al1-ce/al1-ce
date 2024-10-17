@@ -35,7 +35,7 @@ app.get('/', (req, res) => {
 
 });
 
-app.get('/api/greentext', (req, res) => {
+app.get('/greentext', (req, res) => {
     let img = get_random_image("greentext");
     res.writeHead(200, { "Content-Type": 'image/png' });
     res.end(img, "binary");
