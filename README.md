@@ -1,5 +1,6 @@
 
 #### That Voight-Kampf test of yours. Have you ever tried to take that test yourself?
+
 ---
 
 <!-- ![](https://img.shields.io/twitch/status/silyneko?logo=twitch&logoColor=white&style=for-the-badge) -->
@@ -39,6 +40,8 @@
   [![](https://img.shields.io/static/v1?label=%20&message=Godot&color=blue&style=for-the-badge&logo=godotengine&logoColor=white)](https://github.com/orgs/aartificial-dev/repositories?q=-godot)
   [![](https://img.shields.io/static/v1?label=%20&message=GMS2&color=282828&style=for-the-badge&logo=gamemaker&logoColor=white)](https://github.com/orgs/aartificial-dev/repositories?q=-gm)
 </div>
+
+---
 
 <!-- ![](https://raw.githubusercontent.com/al1-ce/al1-ce/master/greentext-2024-10-17T03_04_31.678Z.png) -->
 ![](https://api.al1-ce.dev/images/4chan)
