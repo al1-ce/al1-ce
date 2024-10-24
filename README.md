@@ -48,4 +48,3 @@
 <!-- ![](https://al1-ce-silyneko.vercel.app/api/images/anime) -->
 <!-- ![](http://localhost:3000/api/images/greentext) -->
 <!-- ![](http://localhost:3000/api/images/anime) -->
-
