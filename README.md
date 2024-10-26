@@ -1,9 +1,11 @@
 <h4>
+
 That Voight-Kampf test of yours. Have you ever tried to take that test yourself?
 </h4>
 
 <hr>
 <div align='left'>
+
 <a href='https://github.com/stars/al1-ce/lists/my-releases'><img src='https://img.shields.io/static/v1?&color=363636&style=for-the-badge&label=%20&message=Releases%3A' /></a>
 <a href='https://github.com/al1-ce/pkm'><img src='https://img.shields.io/github/v/release/al1-ce/pkm?&logo=d&style=for-the-badge&label=pkm' /></a>
 <a href='https://github.com/al1-ce/pxv'><img src='https://img.shields.io/github/v/release/al1-ce/pxv?&logo=d&style=for-the-badge&label=pxv' /></a>
@@ -11,15 +13,13 @@ That Voight-Kampf test of yours. Have you ever tried to take that test yourself?
 <a href='https://github.com/al1-ce/just.nvim'><img src='https://img.shields.io/github/v/release/al1-ce/just.nvim?&logo=javascript&logoColor=white&style=for-the-badge&label=just.nvim' /></a>
 <a href='https://github.com/al1-ce/atheos'><img src='https://img.shields.io/static/v1?&logo=javascript&color=007ec6&logoColor=white&style=for-the-badge&label=AtheOS&message=v1.0.0' /></a>
 <a href='https://evestian.com'><img src='https://img.shields.io/static/v1?&logo=dart&color=007ec6&style=for-the-badge&label=Evestian&message=v1.0.0' /></a>
-
-
+ 
 <a href='https://github.com/stars/al1-ce/lists/my-libraries'><img src='https://img.shields.io/static/v1?&color=363636&style=for-the-badge&label=%20&message=Libraries%3A' /></a>
 <a href='https://github.com/al1-ce/sily'><img src='https://img.shields.io/github/v/release/al1-ce/sily?&logo=d&style=for-the-badge&label=silt' /></a>
 <a href='https://github.com/al1-ce/clib'><img src='https://img.shields.io/github/v/release/al1-ce/clib?&logo=d&style=for-the-badge&label=clib' /></a>
 <a href='https://github.com/aartificial-dev/faux'><img src='https://img.shields.io/github/v/release/aartificial-dev/faux?&logo=d&style=for-the-badge&label=faux' /></a>
 <a href='https://github.com/godot-dlang/godot-dlang'><img src='https://img.shields.io/github/v/release/godot-dlang/godot-dlang?&logo=d&style=for-the-badge&label=godot-dlang' /></a>
-
-
+ 
 <a href='https://github.com/al1-ce?tab=repositories'><img src='https://img.shields.io/static/v1?&color=363636&style=for-the-badge&label=%20&message=Languages%3A' /></a>
 <a href='https://github.com/al1-ce?tab=repositories&language=d'><img src='https://img.shields.io/static/v1?&logo=d&color=B03931&style=for-the-badge&label=%20&message=DLang' /></a>
 <a href='https://github.com/al1-ce?tab=repositories&language=d'><img src='https://img.shields.io/static/v1?&logo=vala&color=6E38AC&logoColor=white&style=for-the-badge&label=%20&message=Vala' /></a>
@@ -28,8 +28,7 @@ That Voight-Kampf test of yours. Have you ever tried to take that test yourself?
 <a href='https://github.com/al1-ce?tab=repositories&language=html'><img src='https://img.shields.io/static/v1?&logo=HTML5&color=E34F26&logoColor=white&style=for-the-badge&label=%20&message=HTML' /></a>
 <a href='https://github.com/al1-ce?tab=repositories&language=html'><img src='https://img.shields.io/static/v1?&logo=CSS3&color=1572B6&logoColor=white&style=for-the-badge&label=%20&message=CSS' /></a>
 <a href='https://github.com/al1-ce?tab=repositories&language=c'><img src='https://img.shields.io/static/v1?&logo=c&color=313230&logoColor=white&style=for-the-badge&label=%20&message=C' /></a>
-
-
+ 
 <a href='https://github.com/al1-ce/dotfiles'><img src='https://img.shields.io/static/v1?&color=363636&style=for-the-badge&label=%20&message=Tools%3A' /></a>
 <a href='https://github.com/al1-ce/monolith.nvim'><img src='https://img.shields.io/static/v1?&logo=neovim&color=019733&logoColor=white&style=for-the-badge&label=%20&message=neovim' /></a>
 <a href='https://github.com/al1-ce/monolith.nvim'><img src='https://img.shields.io/static/v1?&logo=neovim&color=323330&logoColor=white&style=for-the-badge&label=%20&message=pluginless' /></a>
