@@ -1,0 +1,293 @@
+h4 {
+    "That Voight-Kampf test of yours. Have you ever tried to take that test yourself?"
+}
+
+hr
+
+div align="left" {
+    shield {
+        type "label"
+        message "Releases:"
+        color "#363636"
+        style "for-the-badge"
+        link "https://github.com/stars/al1-ce/lists/my-releases"
+    }
+
+    shield {
+        type "release"
+        repo "al1-ce/pkm"
+        label "pkm"
+        style "for-the-badge"
+        logo "d"
+        link "https://github.com/al1-ce/pkm"
+    }
+
+    shield {
+        type "release"
+        repo "al1-ce/pxv"
+        label "pxv"
+        style "for-the-badge"
+        logo "d"
+        link "https://github.com/al1-ce/pxv"
+    }
+
+    shield {
+        type "release"
+        repo "al1-ce/confed"
+        label "confed"
+        style "for-the-badge"
+        logo "d"
+        link "https://github.com/al1-ce/confed"
+    }
+
+    shield {
+        type "release"
+        repo "al1-ce/just.nvim"
+        label "just.nvim"
+        style "for-the-badge"
+        logo "javascript"
+        logo_color "white"
+        link "https://github.com/al1-ce/just.nvim"
+    }
+
+    shield {
+        type "label"
+        label "AtheOS"
+        message "v1.0.0"
+        style "for-the-badge"
+        logo "javascript"
+        logo_color "white"
+        color "#007ec6"
+        link "https://github.com/al1-ce/atheos"
+    }
+
+    shield {
+        type "label"
+        label "Evestian"
+        message "v1.0.0"
+        style "for-the-badge"
+        logo "dart"
+        color "#007ec6"
+        link "https://evestian.com"
+    }
+
+    br
+
+    shield {
+        type "label"
+        message "Libraries:"
+        color "#363636"
+        style "for-the-badge"
+        link "https://github.com/stars/al1-ce/lists/my-libraries"
+    }
+
+    shield {
+        type "release"
+        repo "al1-ce/sily"
+        label "silt"
+        style "for-the-badge"
+        logo "d"
+        link "https://github.com/al1-ce/sily"
+    }
+
+    shield {
+        type "release"
+        repo "al1-ce/clib"
+        label "clib"
+        style "for-the-badge"
+        logo "d"
+        link "https://github.com/al1-ce/clib"
+    }
+
+    shield {
+        type "release"
+        repo "aartificial-dev/faux"
+        label "faux"
+        style "for-the-badge"
+        logo "d"
+        link "https://github.com/aartificial-dev/faux"
+    }
+
+    shield {
+        type "release"
+        repo "godot-dlang/godot-dlang"
+        label "godot-dlang"
+        style "for-the-badge"
+        logo "d"
+        link "https://github.com/godot-dlang/godot-dlang"
+    }
+
+    br
+
+    shield {
+        type "label"
+        message "Languages:"
+        color "#363636"
+        style "for-the-badge"
+        link "https://github.com/al1-ce?tab=repositories"
+    }
+
+    shield {
+        type "label"
+        message "DLang"
+        color "#B03931"
+        logo "d"
+        style "for-the-badge"
+        link "https://github.com/al1-ce?tab=repositories&language=d"
+    }
+
+    shield {
+        type "label"
+        message "Vala"
+        color "#6E38AC"
+        logo "vala"
+        style "for-the-badge"
+        logo_color "white"
+        link "https://github.com/al1-ce?tab=repositories&language=d"
+    }
+
+    shield {
+        type "label"
+        message "Dart"
+        color "#0175C2"
+        logo "dart"
+        style "for-the-badge"
+        logo_color "white"
+        link "https://github.com/al1-ce?tab=repositories&language=javascript"
+    }
+
+    shield {
+        type "label"
+        message "JS"
+        color "#323330"
+        logo "javascript"
+        style "for-the-badge"
+        logo_color "white"
+        link "https://github.com/al1-ce?tab=repositories&language=javascript"
+    }
+
+    shield {
+        type "label"
+        message "HTML"
+        color "#E34F26"
+        logo "HTML5"
+        style "for-the-badge"
+        logo_color "white"
+        link "https://github.com/al1-ce?tab=repositories&language=html"
+    }
+
+    shield {
+        type "label"
+        message "CSS"
+        color "#1572B6"
+        logo "CSS3"
+        style "for-the-badge"
+        logo_color "white"
+        link "https://github.com/al1-ce?tab=repositories&language=html"
+    }
+
+    shield {
+        type "label"
+        message "C"
+        color "#313230"
+        logo "c"
+        style "for-the-badge"
+        // logo_color "#A8B9CC"
+        logo_color "white"
+        link "https://github.com/al1-ce?tab=repositories&language=c"
+    }
+
+    br
+
+    shield {
+        type "label"
+        message "Tools:"
+        color "#363636"
+        style "for-the-badge"
+        link "https://github.com/al1-ce/dotfiles"
+    }
+
+    shield {
+        type "label"
+        message "neovim"
+        color "#019733"
+        logo_color "white"
+        logo "neovim"
+        style "for-the-badge"
+        link "https://github.com/al1-ce/monolith.nvim"
+    }
+
+    shield {
+        type "label"
+        message "pluginless"
+        color "#323330"
+        logo_color "white"
+        logo "neovim"
+        style "for-the-badge"
+        link "https://github.com/al1-ce/despair.nvim"
+    }
+
+    shield {
+        type "label"
+        message "git"
+        color "#e46430"
+        logo_color "white"
+        logo "git"
+        style "for-the-badge"
+        link "https://github.com/al1-ce/dotfiles"
+    }
+
+    shield {
+        type "label"
+        message "arch"
+        color "#1793D1"
+        logo_color "white"
+        logo "archlinux"
+        style "for-the-badge"
+        link "https://github.com/al1-ce/dotfiles"
+    }
+
+    shield {
+        type "label"
+        message "qtile"
+        color "#215578"
+        logo_color "white"
+        logo "quicktime"
+        style "for-the-badge"
+        link "https://github.com/al1-ce/dotfiles"
+    }
+
+    shield {
+        type "label"
+        message "wezterm"
+        color "#4E49EE"
+        logo_color "white"
+        logo "wezterm"
+        style "for-the-badge"
+        link "https://github.com/al1-ce/dotfiles"
+    }
+
+    shield {
+        type "label"
+        message "Godot"
+        color "blue"
+        logo_color "white"
+        logo "godotengine"
+        style "for-the-badge"
+        link "https://github.com/orgs/aartificial-dev/repositories?q=-godot"
+    }
+
+    shield {
+        type "label"
+        message "GMS2"
+        color "#282828"
+        logo_color "white"
+        logo "gamemaker"
+        style "for-the-badge"
+        link "https://github.com/orgs/aartificial-dev/repositories?q=-gm"
+    }
+}
+
+hr
+
+img src="https://api.al1-ce.dev/images/4chan"
