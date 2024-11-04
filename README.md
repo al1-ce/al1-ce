@@ -22,8 +22,8 @@ That Voight-Kampf test of yours. Have you ever tried to take that test yourself?
  
 <a href='https://github.com/al1-ce?tab=repositories'><img src='https://img.shields.io/static/v1?&color=363636&style=for-the-badge&label=%20&message=Languages%3A' /></a>
 <a href='https://github.com/al1-ce?tab=repositories&language=d'><img src='https://img.shields.io/static/v1?&logo=d&color=B03931&style=for-the-badge&label=%20&message=DLang' /></a>
-<a href='https://github.com/al1-ce?tab=repositories&language=d'><img src='https://img.shields.io/static/v1?&logo=vala&color=6E38AC&logoColor=white&style=for-the-badge&label=%20&message=Vala' /></a>
-<a href='https://github.com/al1-ce?tab=repositories&language=javascript'><img src='https://img.shields.io/static/v1?&logo=dart&color=0175C2&logoColor=white&style=for-the-badge&label=%20&message=Dart' /></a>
+<a href='https://github.com/al1-ce?tab=repositories&language=vala'><img src='https://img.shields.io/static/v1?&logo=vala&color=6E38AC&logoColor=white&style=for-the-badge&label=%20&message=Vala' /></a>
+<a href='https://github.com/al1-ce?tab=repositories&language=dart'><img src='https://img.shields.io/static/v1?&logo=dart&color=0175C2&logoColor=white&style=for-the-badge&label=%20&message=Dart' /></a>
 <a href='https://github.com/al1-ce?tab=repositories&language=javascript'><img src='https://img.shields.io/static/v1?&logo=javascript&color=323330&logoColor=white&style=for-the-badge&label=%20&message=JS' /></a>
 <a href='https://github.com/al1-ce?tab=repositories&language=html'><img src='https://img.shields.io/static/v1?&logo=HTML5&color=E34F26&logoColor=white&style=for-the-badge&label=%20&message=HTML' /></a>
 <a href='https://github.com/al1-ce?tab=repositories&language=html'><img src='https://img.shields.io/static/v1?&logo=CSS3&color=1572B6&logoColor=white&style=for-the-badge&label=%20&message=CSS' /></a>
