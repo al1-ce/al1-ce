@@ -84,7 +84,7 @@ div align="left" {
     shield {
         type "release"
         repo "al1-ce/sily"
-        label "silt"
+        label "sily"
         style "for-the-badge"
         logo "d"
         link "https://github.com/al1-ce/sily"

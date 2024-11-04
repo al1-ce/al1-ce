@@ -15,7 +15,7 @@ That Voight-Kampf test of yours. Have you ever tried to take that test yourself?
 <a href='https://evestian.com'><img src='https://img.shields.io/static/v1?&logo=dart&color=007ec6&style=for-the-badge&label=Evestian&message=v1.0.0' /></a>
  
 <a href='https://github.com/stars/al1-ce/lists/my-libraries'><img src='https://img.shields.io/static/v1?&color=363636&style=for-the-badge&label=%20&message=Libraries%3A' /></a>
-<a href='https://github.com/al1-ce/sily'><img src='https://img.shields.io/github/v/release/al1-ce/sily?&logo=d&style=for-the-badge&label=silt' /></a>
+<a href='https://github.com/al1-ce/sily'><img src='https://img.shields.io/github/v/release/al1-ce/sily?&logo=d&style=for-the-badge&label=sily' /></a>
 <a href='https://github.com/al1-ce/clib'><img src='https://img.shields.io/github/v/release/al1-ce/clib?&logo=d&style=for-the-badge&label=clib' /></a>
 <a href='https://github.com/aartificial-dev/faux'><img src='https://img.shields.io/github/v/release/aartificial-dev/faux?&logo=d&style=for-the-badge&label=faux' /></a>
 <a href='https://github.com/godot-dlang/godot-dlang'><img src='https://img.shields.io/github/v/release/godot-dlang/godot-dlang?&logo=d&style=for-the-badge&label=godot-dlang' /></a>
