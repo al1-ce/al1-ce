@@ -42,5 +42,5 @@ That Voight-Kampf test of yours. Have you ever tried to take that test yourself?
 </div>
 
 <hr>
-<img src='https://api.al1-ce.dev/images/4chan'></img>
+<img src='https://api.al1-ce.dev/images/greentext'></img>
 
