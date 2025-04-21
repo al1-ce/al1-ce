@@ -210,21 +210,11 @@ div align="left" {
     shield {
         type "label"
         message "neovim"
-        color "#019733"
-        logo_color "white"
-        logo "neovim"
-        style "for-the-badge"
-        link "https://github.com/al1-ce/monolith.nvim"
-    }
-
-    shield {
-        type "label"
-        message "pluginless"
         color "#323330"
         logo_color "white"
         logo "neovim"
         style "for-the-badge"
-        link "https://github.com/al1-ce/despair.nvim"
+        link "https://github.com/al1-ce/nvim"
     }
 
     shield {
