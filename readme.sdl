@@ -210,7 +210,7 @@ div align="left" {
     shield {
         type "label"
         message "neovim"
-        color "#323330"
+        color "#019733"
         logo_color "white"
         logo "neovim"
         style "for-the-badge"

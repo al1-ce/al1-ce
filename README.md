@@ -30,7 +30,7 @@ That Voight-Kampf test of yours. Have you ever tried to take that test yourself?
 <a href='https://github.com/al1-ce?tab=repositories&language=c'><img src='https://img.shields.io/static/v1?&logo=c&color=313230&logoColor=white&style=for-the-badge&label=%20&message=C' /></a>
  
 <a href='https://github.com/al1-ce/dotfiles'><img src='https://img.shields.io/static/v1?&color=363636&style=for-the-badge&label=%20&message=Tools%3A' /></a>
-<a href='https://github.com/al1-ce/nvim'><img src='https://img.shields.io/static/v1?&logo=neovim&color=323330&logoColor=white&style=for-the-badge&label=%20&message=neovim' /></a>
+<a href='https://github.com/al1-ce/nvim'><img src='https://img.shields.io/static/v1?&logo=neovim&color=019733&logoColor=white&style=for-the-badge&label=%20&message=neovim' /></a>
 <a href='https://github.com/al1-ce/dotfiles'><img src='https://img.shields.io/static/v1?&logo=git&color=e46430&logoColor=white&style=for-the-badge&label=%20&message=git' /></a>
 <a href='https://github.com/al1-ce/dotfiles'><img src='https://img.shields.io/static/v1?&logo=archlinux&color=1793D1&logoColor=white&style=for-the-badge&label=%20&message=arch' /></a>
 <a href='https://github.com/al1-ce/dotfiles'><img src='https://img.shields.io/static/v1?&logo=quicktime&color=215578&logoColor=white&style=for-the-badge&label=%20&message=qtile' /></a>
